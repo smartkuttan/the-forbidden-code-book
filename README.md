@@ -1,31 +1,28 @@
-Forbidden Code – Companion Repository
-====================================
+# Forbidden Code – Companion Repository
 
-Purpose
--------
-This repository hosts runnable Python code, datasets (synthetic/minimal), unit tests, and example mini‑projects that accompany the book `The Forbidden Code – AI’s Original Sin and the Path to Ethical Development`.
+> Code labs, datasets, and checklists for  
+> **_The Forbidden Code: AI’s Original Sin and the Path to Ethical Development_**  
+> 👉 Kindle Edition: [Amazon Link](https://www.amazon.com/dp/B0FSL9RKM5)
 
-Introduction
-------------
-This repo mirrors the book’s allegorical style—Eden, serpents, commandments—and turns it into runnable exercises. Each chapter includes a short README, scripts/notebooks, and minimal data so readers can practice while reading.
+![The Forbidden Code – Book Cover](https://github.com/smartkuttan/the-forbidden-code-book/blob/main/The%20Forbidden%20Code%20KDP%20MOCKUP%20(2).jpg?raw=true)
 
-Quickstart
-----------
-1) Create a virtual environment and install dependencies.
+---
 
-```
-python -m venv .venv
-. .venv/Scripts/activate  # Windows PowerShell: .venv\Scripts\Activate.ps1
-pip install -r requirements.txt
-```
+## Purpose
 
-2) Run tests to verify setup.
+This repository contains runnable Python code, synthetic datasets, unit tests, and mini-projects that accompany the book.  
+The goal: turn the book’s parable-like narrative (Eden, the serpent in the code, commandments of ethical coding) into **practical, executable exercises** for developers.
 
-```
-pytest -q
-```
+---
 
-3) Explore chapter examples under `chapters/`. Each chapter contains a `README.md` and a `code/` folder with runnable scripts or notebooks.
+## What’s Inside
+
+- **Chapter Labs** – runnable scripts and notebooks mapped to each book chapter  
+- **Datasets** – tiny CSV/JSON examples for bias, fairness, and governance labs  
+- **Bias & Fairness Tools** – metrics, mitigation, subgroup analysis  
+- **Governance Templates** – reproducibility, CI/CD guardrails, audit stubs  
+- **Checklists & Patterns** – model cards, risk logs, ethical design prompts  
+- **Unit Tests** – pytest coverage to validate examples and exercises
 
 Repository Layout
 -----------------

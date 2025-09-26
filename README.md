@@ -4,18 +4,14 @@
 *The Book Big Tech Doesn’t Want Developers to Read.*  
 *The Eden Parable Every Developer Must Master.*
 
-👤 **Author:** Steaphen Antony Venansious  
-✨ **Kindle Edition:** [Available on Amazon](https://www.amazon.com/dp/B0FSL9RKM5)
+ **Author:** Steaphen Antony Venansious  
+ **Kindle Edition:** [Available on Amazon](https://www.amazon.com/dp/B0FSL9RKM5)
 
 ![The Forbidden Code – Book Cover](https://github.com/smartkuttan/the-forbidden-code-book/blob/main/The%20Forbidden%20Code%20KDP%20MOCKUP%20(2).jpg?raw=true)
 
 
 
----
 
-![The Forbidden Code – Book Cover](https://github.com/smartkuttan/the-forbidden-code-book/blob/main/The%20Forbidden%20Code%20KDP%20MOCKUP%20(2).jpg?raw=true)
-
----
 
 ## Purpose
 
